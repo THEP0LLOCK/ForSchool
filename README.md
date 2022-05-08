@@ -1,14 +1,14 @@
 수학
 =================
 > ### [1단원]   
-1. 다항식의 연산 : [링크](http://www.happyhaksul.com/reports/16521)   
-2. 나머지정리와 인수분해   
+1. 다항식의 연산 : [관련 링크](http://www.happyhaksul.com/reports/16521)   
+2. 나머지정리와 인수분해 : [관련 링크](https://hbar.tistory.com/350   
 > ### [2단원]   
-1. 복소수와 이차방정식   
-2. 이차방정식과 이차함수   
+1. 복소수와 이차방정식 : [관련 링크](https://codepractice.tistory.com/69)   
+2. 이차방정식과 이차함수 : 위와 같음   
 3. 여러 가지 방적식과 부등식   
 > ### [3단원]   
-1. 평면좌표   
+1. 평면좌표 : [관련 링크](https://dojang.io/mod/page/view.php?id=427)   
 2. 직선의 방정식   
 3. 원의 방정식   
 4. 도형의 이동   
