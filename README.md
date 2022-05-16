@@ -8,7 +8,7 @@
 2. 이차방정식과 이차함수 : 위와 같음   
 3. 여러 가지 방적식과 부등식   
 > ### [3단원]   
-1. 평면좌표 : [관련 링크](https://dojang.io/mod/page/view.php?id=427)   
+1. 평면좌표 : [관련 링크](https://dojang.io/mod/page/view.php?id=427)[베지어 곡선](https://blog.coderifleman.com/2016/12/30/bezier-curves/)   
 2. 직선의 방정식   
 3. 원의 방정식   
 4. 도형의 이동   
